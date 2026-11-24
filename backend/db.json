@@ -1,0 +1,8 @@
+{
+  "foods": [],
+  "orders": [],
+  "settings": {
+    "restaurantName": "My Restaurant",
+    "tax": 5
+  }
+}
